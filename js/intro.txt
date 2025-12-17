@@ -1,0 +1,17 @@
+I’m Heregowdara Bindhu, a recent B.Tech graduate in Computer Science and Engineering from G. Pulla Reddy Engineering College, Kurnool. I’ve completed my degree with a CGPA of 7.08 up to the 7th semester, and I'm currently waiting my final semester results. Before that, I completed my Intermediate with 88% at Akshara Sree Junior College, Adoni, and my 10th with a CGPA of 10 at Akshara Sree Model & IIT Olympiad School, Adoni.
+
+During my academic journey, I worked on several projects some of them are: 
+
+Speech to Handwriting Synthesis:
+
+This is a major project done in group. This project is about transforming spoken input into realistic handwritten text. It uses Faster-Whisper for speech recognition, Natural language processing and DeepMultilingualPunctuation for grammar and punctuation correction, and used predefined fonts and .ttf fonts for font based handwriting rendering from text.
+My key role in this project  was working on handling .ttf font files to get various handwriting styles and enhancing the calligraphic quality of the output for a more natural and human-like writing and also designing the web pages using HTML and making the application more user-friendly and clean front-end layout.
+
+In addition to that, I developed a Resume Builder Web Application using HTML, CSS, and JavaScript to create professional resumes dynamically. It allows users to enter their details, preview the resume in real-time, and download a well-formatted PDF version. It is a Simple quick and easy way to build professional resumes.
+
+I also created a simple Netflix Clone, which is a front-end replica of the Netflix landing page, using HTML and CSS.
+
+That’s a little about me and the projects I’ve done so far.
+
+
+
